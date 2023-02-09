@@ -1,6 +1,6 @@
 # Crust API
 
-> Crust API is a bridge connector bewteen chain and other offchain services, you'd better not run it seperately.
+> Crust API is a bridge connector between chain and other offchain services, you'd better not run it seperately.
 
 Based on [express](https://github.com/expressjs/express/) and [polkadot-js/api](https://github.com/polkadot-js/api), connecting a running Crust Node and hosting a RESTful api service.
 
